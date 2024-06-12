@@ -17,17 +17,16 @@ function Home() {
             Front-End React Developer
           </h2>
           <p>
-            Salom, A'zamov Asadbek. O'zbekistonning Farg'ona shahrida tug'ulgan,
+            Salom, Azamov Asadbek. Ozbekistonning Fargona shahrida tugulgan,
             ishtiyoqli Front-End React Developer
           </p>
           <div className="mt-5 flex gap-5">
-            <div >
+            <div>
               <Link
                 href="https://github.com/azamov-asadbek271?tab=repositories"
                 className=" w-7 h-7 flex items-center justify-center "
               >
-                 
-                  <FaGithub className="text-2xl" />
+                <FaGithub className="text-2xl" />
               </Link>
             </div>
             <Link

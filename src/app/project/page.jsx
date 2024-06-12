@@ -121,7 +121,7 @@ function Project() {
             </Link>
           </div>
         </div>
-        my-kitchen
+
         <div className="card w-80 pb-4 bg-base-100 shadow-xl mb-10 mt-10 items-center gap-5 ">
           <img
             className="w-full rounded"
@@ -523,4 +523,4 @@ function Project() {
   );
 }
 
-export default Project
+export default Project;
